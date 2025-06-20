@@ -48,6 +48,3 @@ Then open http://localhost:5000 in your browser.
 - Python 3.7+
 - See requirements.txt for package dependencies
 
-## Screenshots
-![Upload Page](screenshots/upload.png)
-![Results Page](screenshots/results.png)
